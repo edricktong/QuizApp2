@@ -1,0 +1,33 @@
+[
+  {
+    "question": "¿Es esta una pregunta?",
+
+    "answer": true
+  },
+  {
+    "question": "¿No es esta una pregunta?",
+
+    "answer": false
+  },
+  {
+    "question": "SKT ganará el torneo de mundos.",
+
+    "answer": false
+  },
+  {
+    "question": "Jackson piensa que lo opuesto a verdad es verdad.",
+
+    "answer": true
+  },
+  {
+    "question": "TL ganará el torneo de mundos.",
+
+    "answer": false
+  },
+  {
+    "question": "Sigmund tiene su airdrop encendido.",
+
+    "answer": true
+  }
+]
+

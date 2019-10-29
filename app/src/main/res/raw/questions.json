@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Your playing this game on the iPhone 11 Pro Max",
+
+    "answer": true
+  },
+  {
+    "question": "This is not a statement.",
+
+    "answer": false
+  },
+  {
+    "question": "Im DEFINITELY not doing other things besides coding.",
+
+    "answer": false
+  },
+  {
+    "question": "Who's Joe?.",
+
+    "answer": true
+  },
+  {
+    "question": "!true",
+
+    "answer": false
+  },
+  {
+    "question": "!false.",
+
+    "answer": true
+  },
+  {
+    "question": "The Pixel 4 is literally the iPhone of the Android world.",
+
+    "answer": true
+  },
+  {
+    "question": "You're tired.",
+
+    "answer": true
+  },
+  {
+    "question": "True or False?.",
+
+    "answer": true
+  },
+  {
+    "question": "I put a lot of effort into these questions.",
+
+    "answer": false
+  }
+]
+
